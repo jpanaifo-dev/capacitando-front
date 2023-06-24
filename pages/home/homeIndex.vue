@@ -5,6 +5,5 @@
 <template>
     <div>
         <LayoutsDefault/>
-        
     </div>
 </template>

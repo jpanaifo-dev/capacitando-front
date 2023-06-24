@@ -4,7 +4,7 @@
 
 <template>
   <div>
-      <HomeIndex/>
+      <LandingIndex/>
   </div>
 </template>
 
