@@ -4,5 +4,5 @@
 
 <template>
     <LayoutHeaderCustomHeader/>
-    <LandingIndex/>
+    <slot />
 </template>
